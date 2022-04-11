@@ -16,6 +16,7 @@
   }
 
   .nav-links {
+    pointer-events: none;
     flex-direction: column;
     gap: 0rem;
     align-items: stretch;
@@ -41,6 +42,7 @@
     transform: translateY(0);
     height: auto;
     opacity: 1;
+    pointer-events: all;
   }
 
   .nav-links > li {
@@ -71,9 +73,17 @@
   }
 
   /* header */
+  .header-img-section {
+    margin-top: -8rem;
+  }
+
   .header-section-img {
-    max-width: 800px;
+    max-width: 600px;
     width: 90%;
+  }
+
+  .header-section-logo {
+    width: 15%;
   }
 
   /* reviews  */
