@@ -37,7 +37,7 @@
       </div>
     </section>
 
-    <!-- reviews -->
+   <!-- reviews -->
     <section class="reviews">
       <div class="container reviews-section">
         <!-- review one -->
@@ -48,21 +48,14 @@
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
-            Brilliant product!!
+            A great way to sleep good!
           </h2>
           <div class="user-review">
             <p class="review-text">
-              “I received my first bottle of this sleep mist and have to say I
-              was hooked from the first night. Just a quick spray to each corner
-              of my pillow and I’m surrounded by the relaxing, destressing
-              natural aromas. Not only does it smell amazing it clears the
-              airways making it easier to breathe. I use it every night now for
-              a calming, deep sleep. It just removes the stresses of the day.
-              Brilliant product
-              <span class="emoji">👍😊</span> .”
+              “As a busy mum and a full time Community Nurse, sleep can often evade me, so wanted to try something to solve this issue. I tried this Sleep Mist. It’s a lovely smell and creates a calming relaxed environment to promote sleep. I found it really helpful especially as it doesn’t leave you feeling sluggish in the morning or affect you so much you couldn’t respond to the needs of children overnight. Highly recommended, excellent value and fantastic customer service.”
             </p>
             <p class="review-author">
-              Martin, Featherstone, Wolverhampton, England.
+              Ramona, Wymondham, Norfolk, England.
             </p>
           </div>
 
@@ -70,15 +63,9 @@
 
           <div class="reply">
             <p class="answer-text">
-              Hi Martin, thank you very much for taking the time to do such a
-              great review of our popular Sleep Better Pillow Mist. It’s
-              fantastic to keep seeing great feedback like yours for this
-              product from our customers. It did take four years (from 2014 to
-              2018) of hard work, focus and solid research into sleep problems
-              and the potential sleep solutions, so it’s great to see that work
-              now paying off for so many people.
+              Hi Ramona, thank you very much for this great review of the popular Sleep Better Pillow Mist, it’s appreciated so much. After four very long years of very intensive research and study into sleep issues and sleep solutions, it’s great that the hard work put into this, means that so many people around the world are now benefiting from it, having a good nights sleep and waking up refreshed.
               <br />
-              All the best. <br />
+              Best regards. <br />
               Jane. x <br />
               <span class="italic">Sleep Better Pillow Mist</span> <br />
               <strong class="italic">Sleep Better . . . Naturally</strong>
@@ -98,32 +85,22 @@
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
-            Great product for sleeping good!
+            What a product!!
           </h2>
           <p class="review-text">
-            “My partner and I absolutely love this sleep mist! It smells
-            amazing, it’s long lasting (you can still smell it the next morning)
-            and it doesn’t have that eye watering or throat irritating chemical
-            effect of other brands that we have tried, so will be replacing our
-            usual brand for this. Even our little one is lasting longer in his
-            cot before waking up! (amazing achievement!) Extremely calming. We
-            love it. Thanks! Can definitely recommend it to anyone and have
-            already recommended this pillow mist to family, friends and
-            colleagues!”
+            “Been using this sleep better pillow mist for about 2 months now, and get a really great deep sleep every night and wake up refreshed and fully ready for the day. As an added bonus it also smells great too!”
           </p>
           <p class="review-author">
-            Kayleigh, Haywards Heath, West Sussex, England.
+            Lisa, Orpington, Kent, England.
           </p>
 
           <button class="btn read-reply-btn">Read Reply</button>
 
           <div class="reply">
             <p class="answer-text">
-              Hi Kayleigh, thank you so much for this great feedback on the
-              Sleep Better Pillow Mist, it makes all the work worthwhile when we
-              see comments like this.
+              Hi Lisa, thank you very much for taking the time to comment on the popular Sleep Better Pillow Mist.
               <br />
-              All the best. <br />
+              Best regards. <br />
               Jane. x <br />
               <span class="italic">Sleep Better Pillow Mist</span> <br />
               <strong class="italic">Sleep Better . . . Naturally</strong>
@@ -143,28 +120,18 @@
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
-            An easier way to get to sleep!
+            My daughter now sleeps great!
           </h2>
           <p class="review-text">
-            “I’ve been using this sleep better pillow mist for a couple of weeks
-            now and have already noticed a big improvement in my sleep quality.
-            It smells gorgeous and has a noticeable calming effect. It has also
-            reduced my tendency to snore, I’ve not woken my partner up for about
-            a week now, something I used to do almost nightly. Thoroughly
-            recommended.”
+            “My little 9 year old daughter had some sleeping problems, she constantly woke up in the night, she was getting irritable and doing really badly at school, then my auntie suggested to try this sleep better pillow mist. Phenomenal is the word for it, it worked from the very first night. Totally recommended to anyone with sleeping problems.”
           </p>
-          <p class="review-author">Mark, Langwathby, Cumbria, England.</p>
+          <p class="review-author">Sandra, Kettering, Northamptonshire, England.</p>
 
           <button class="btn read-reply-btn">Read Reply</button>
 
           <div class="reply">
             <p class="answer-text">
-              Hi Mark, thank you very much for that great feedback on the Sleep
-              Better Pillow Mist, it’s really appreciated. It’s great to see
-              that so many years of hard work and research are now paying off
-              for so many people. Sleeping problems like snoring and insomnia
-              are very big issues for lots of people, so we’re really glad to be
-              a part of the solution.
+              Hello Sandra, thank you for taking the time to email in those great comments for the Sleep Better Pillow Mist and it’s brilliant news that it’s helping your daughter to sleep better. Getting a good nights sleep is so important, but for growing children, this is when it’s critical, children only grow when they’re asleep, and if they don’t get as much sleep as other children, they will be at a disadvantage because of that.
               <br />
               Best regards.
               <br />
@@ -187,22 +154,18 @@
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
-            Phenomenal product!
+            Now you can sleep better!
           </h2>
           <p class="review-text">
-            “Now in my second year on this same pillow spray, always repeat
-            buying the same product. I won’t use anything else. What a find!”
+            “A beautiful smell of lavender, chamomile and eucalyptus helps you drift off to a great sleep whilst also not being too strong or overpowering. Looking forward to trying it as a room spray as well. Amazing product and definitely worth trying out.”
           </p>
-          <p class="review-author">Pauline, Horsham, West Sussex, England.</p>
+          <p class="review-author">Laura, Sunderland, Tyne and Wear, England.</p>
 
           <button class="btn read-reply-btn">Read Reply</button>
 
           <div class="reply">
             <p class="answer-text">
-              Hi Pauline, thank you for your comments on the Sleep Better Pillow
-              Mist and great that you like the product enough to repeat buy. On
-              average, out of 30 people that buy the Sleep Better Pillow Mist
-              from this website, 27 buy the same product here again.
+              Hi Laura, thank you very much for taking the time to do this great review of the Sleep Better Pillow Mist. It’s fantastic that it’s helping you to sleep better, you will enjoy it as a room spray as well, plus just a few sprays in your bath water for a relaxing bath.
               <br />
               Best regards.
               <br />
@@ -225,21 +188,18 @@
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
-            Have a restful sleep
+            Brilliant Sleeping Product!
           </h2>
           <p class="review-text">
-            “I Really love everything about this product. It smells natural and
-            helps with a restful sleep ‘what’s not to like’!”
+            “I absolutely love this natural sleep lavender spray, it smells so nice on the bed sheets and I even use it in the bath tub, completely relaxing and would definitely recommend it.”
           </p>
-          <p class="review-author">Sue, Horsham, West Sussex, England.</p>
+          <p class="review-author">Sim, Edmonton, London, England.</p>
 
           <button class="btn read-reply-btn">Read Reply</button>
 
           <div class="reply">
             <p class="answer-text">
-              Hello Sue, thank you for taking the time to do this great review
-              of the Sleep Better Pillow Mist, it’s always appreciated. Great
-              news that it’s helping you to have a restful sleep.”
+              Hi Sim, thank you so much for this great feedback, it’s really appreciated. Yes, it does have many uses, apart from the main idea of lightly misting it on your pillow to help you sleep at night, you can also use it as a room spray, in your bath water, it also helps to keep mosquitoes away! Going by the many emails we receive on this, some people buy the Sleep Better Pillow Mist and spray around their lounge to help them relax in the evening after a hard days work!
               <br />
               Best regards.
               <br />
@@ -262,23 +222,20 @@
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
-            Top Product!
+            It’s great!
           </h2>
           <p class="review-text">
-            “Helps me get 7 hours sleep per night now and it works. Deep dreams
-            thanks to this sleep mist.”
+            “I have always used a pillow mist, generally from the big name brands. I tried this as one of my friends was raving about it, I must say it’s incredible, the best I have tried by a country mile. My son and I use this every night now, I won’t be without it! Heavenly.”
           </p>
-          <p class="review-author">John, Darlington, County Durham, England.</p>
+          <p class="review-author">Chrissy, Basford, Nottingham, England.</p>
 
           <button class="btn read-reply-btn">Read Reply</button>
 
           <div class="reply">
             <p class="answer-text">
-              Hello John, thank you very much for your review on the popular
-              Sleep Better Pillow Mist, it’s solving so many sleep problems for
-              so many people at the moment, which is great to see.”
+              Hello Chrissy, thank you very much for taking time out of your day to do this great review of the popular Sleep Better Pillow Mist, it’s fantastic that it’s helping you and your son to sleep better. Let’s see if we can spread the word about the product to as many people as possible. What better gift can there be, than helping someone to have a great nights sleep?
               <br />
-              All The Best
+              Best regards.
               <br />
               Jane. x <br />
               <span class="italic">Sleep Better Pillow Mist</span> <br />
@@ -299,25 +256,18 @@
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
-            Brilliant!
+            Best sleeping remedy!
           </h2>
           <p class="review-text">
-            “This sleep better pillow spray has certainly worked for me. 2-3
-            sprays on each corner of the pillow case at bedtime and I drift off
-            to sleep effortlessly. I repeat if I wake up during the night and
-            again I fall back to sleep quickly. The fact it is natural and has
-            no nasties in it is an added bonus.”
+            “My wife said my snoring kept her awake, so I tried this sleep better pillow mist, result, there’s now very little snoring and one saved marriage!  Keep up the great work.”
           </p>
-          <p class="review-author">Mandy, Horsham, West Sussex, England.</p>
+          <p class="review-author">Thomas, Aberystwyth, Ceredigion, Wales.</p>
 
           <button class="btn read-reply-btn">Read Reply</button>
 
           <div class="reply">
             <p class="answer-text">
-              Hello Mandy, thank you for this terrific comment about the Sleep
-              Better Pillow Mist, it’s always great to see and yep, no nasties,
-              no chemicals, no additives, no preservatives and never tested on
-              animals. Ticks all the boxes!
+              Hi Thomas, thanks for emailing in your comments for the Sleep Better Pillow Mist, and it’s great that we helped to save your marriage. No-one likes to sleep next to someone who snores!
               <br />
               Best Regards.
               <br />
@@ -340,29 +290,20 @@
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
-            Totally recommended!
+            A great solution to sleep problems!
           </h2>
           <p class="review-text">
-            “We use it in the whole family, youngest 5 years old and oldest 89,
-            we even lightly spray the dogs bed at night as well, and they sleep
-            great as do we all and truthfully, even if we all slept great
-            without this sleep better pillow mist, we would still buy it just
-            for the smell, the fragrance is really nice, we sometimes use it as
-            a room spray as well.”
+            “I’m sleeping so good with this product. I love its smell. I can’t do without it.”
           </p>
-          <p class="review-author">Julie, Bay City, Michigan, USA.</p>
+          <p class="review-author">Roberta, Rapagnano 80, Rome, Italy.</p>
 
           <button class="btn read-reply-btn">Read Reply</button>
 
           <div class="reply">
             <p class="answer-text">
-              “Hello Julie. thank you for taking the time out of your day to
-              email in this brilliant review of the Sleep Better Pillow Mist,
-              yep, it can be used to help most people to sleep better, anyone
-              over the age of two and, as you’ve found out, on dogs bedding as
-              well.”
+              Hi Roberta, thank you very much for this great feedback on the Sleep Better Pillow Mist, it’s really appreciated. Going by the many ‘thank you’ emails received, you’re not alone in thinking you can’t do without it! Many customers also take the bottles on holiday with them, just to make sure that they continue to sleep great wherever they go.
               <br />
-              All The Best.
+              Best Regards.
               <br />
               Jane. x <br />
               <span class="italic">Sleep Better Pillow Mist</span> <br />

@@ -555,12 +555,13 @@ textarea {
   width: 90%;
   margin: 0 auto;
   transform: translateY(-1.25rem);
+  z-index: -1;
 
   transition: height 0.5s ease, transform 0.5s ease;
 }
 
 .show-reply {
-  height: 63%;
+  height: 70%;
   transform: translateY(0);
 }
 
@@ -628,10 +629,8 @@ textarea {
 .view-reviews {
   display: inline-block;
   color: #fff;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
   font-size: 1.25rem;
-
-  display: none;
 }
 
 .showcase-text-desc {
