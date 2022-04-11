@@ -1,0 +1,80 @@
+@media (max-width: 768px) {
+  .container {
+    width: 95%;
+  }
+
+  /* nav */
+  .nav {
+    padding: 1rem;
+  }
+
+  /* grid two col */
+  .grid-two-col {
+    grid-template-columns: 1fr;
+    row-gap: 2rem;
+  }
+
+  .grid-two-col-left-col {
+    padding: 0;
+  }
+
+  /* grid three col */
+  .grid-three-two {
+    grid-template-columns: 1fr;
+    row-gap: 2rem;
+  }
+
+  /* grid two three */
+
+  .grid-two-three {
+    grid-template-columns: 1fr;
+    row-gap: 2rem;
+  }
+
+  .grid-two-three-left-col {
+    width: 100%;
+    max-width: 400px;
+  }
+
+  /* home text section img */
+
+  .home-text-section-right-col {
+    width: 100%;
+    height: 600px;
+  }
+
+  /* insomnia text section img */
+  .grid-two-col-right-col {
+    grid-row: 1/2;
+    width: 100%;
+    max-width: 400px;
+    height: 250px;
+  }
+
+  /* insomnia image */
+
+  .insomnia-img {
+    display: block;
+  }
+
+  .insomnia-img > img {
+    width: 100%;
+  }
+
+  /* reviews  */
+
+  .reviews-section {
+    grid-template-columns: 1fr;
+  }
+
+  /* showcase section */
+
+  .showcase-section {
+    grid-template-columns: 1fr;
+    row-gap: 2rem;
+  }
+
+  .stars {
+    display: block;
+  }
+}
