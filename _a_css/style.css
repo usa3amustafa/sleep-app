@@ -552,7 +552,7 @@ textarea {
   line-height: 1.6;
   height: 0;
   overflow: hidden;
-  width: 85%;
+  width: 90%;
   margin: 0 auto;
   transform: translateY(-1.25rem);
 
@@ -566,6 +566,7 @@ textarea {
 
 .answer-text-link {
   font-weight: 600;
+  color: #734f96;
 }
 
 /* showcase section */

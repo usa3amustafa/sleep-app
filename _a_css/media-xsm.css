@@ -31,6 +31,10 @@
     padding: 2rem 0.5rem;
   }
 
+  .contact-info-link {
+    gap: 0.25rem;
+  }
+
   .email-link {
     font-size: 1rem;
   }
