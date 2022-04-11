@@ -46,7 +46,7 @@
     <section class="reviews">
       <div class="container reviews-section">
         <!-- review one -->
-        <article class="review">
+        <article class="review slide-in from-left">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -80,7 +80,7 @@
         </article>
 
         <!-- review two -->
-        <article class="review">
+        <article class="review slide-in from-right">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -113,7 +113,7 @@
         </article>
 
         <!-- review three -->
-        <article class="review">
+        <article class="review slide-in from-left">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -147,7 +147,7 @@
         </article>
 
         <!-- review four -->
-        <article class="review">
+        <article class="review slide-in from-right">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -181,7 +181,7 @@
         </article>
 
         <!-- review five -->
-        <article class="review">
+        <article class="review slide-in from-left">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -215,7 +215,7 @@
         </article>
 
         <!-- review six -->
-        <article class="review">
+        <article class="review slide-in from-right">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -249,7 +249,7 @@
         </article>
 
         <!-- review seven -->
-        <article class="review">
+        <article class="review slide-in from-left">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -283,7 +283,7 @@
         </article>
 
         <!-- review eight -->
-        <article class="review">
+        <article class="review slide-in from-right">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />

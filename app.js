@@ -54,10 +54,36 @@ const stickyNav = function (enteries) {
 
 const stickyNavOptions = {
   root: null,
-  threshold: 0.3,
+  threshold: 0,
   rootMargin: `-${navHeight}px`,
 }
 
 const observer = new IntersectionObserver(stickyNav, stickyNavOptions)
 
 observer.observe(sectionOne)
+
+const appearOptions = {
+  threshold: 0,
+  rootMargin: '0px 0px -150px 0px',
+}
+
+const appearOnScroll = new IntersectionObserver(function (
+  enteries,
+  appearOnScroll
+) {
+  enteries.forEach(entry => {
+    if (!entry.isIntersecting) {
+      return
+    } else {
+      entry.target.classList.add('appear')
+      appearOnScroll.unobserve(entry.target)
+    }
+  })
+},
+appearOptions)
+
+const sliders = document.querySelectorAll('.slide-in')
+
+sliders.forEach(slider => {
+  appearOnScroll.observe(slider)
+})

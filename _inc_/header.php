@@ -5,7 +5,7 @@
 
       <div class="container header-section">
         <img
-          src="./_a_img/SBPM-Social_Facebook (1).webp"
+          src="./_a_img/SBPM-Social_Facebook.webp"
           alt=""
           class="header-section-logo"
         />

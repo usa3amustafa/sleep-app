@@ -39,7 +39,7 @@
         <!-- index reviews -->
 
         <!-- review one -->
-        <article class="review">
+        <article class="review slide-in from-left">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -73,7 +73,7 @@
         </article>
 
         <!-- review two -->
-        <article class="review">
+        <article class="review slide-in from-right">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -106,7 +106,7 @@
         </article>
 
         <!-- review three -->
-        <article class="review">
+        <article class="review slide-in from-left">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -140,7 +140,7 @@
         </article>
 
         <!-- review four -->
-        <article class="review">
+        <article class="review slide-in from-right">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -174,7 +174,7 @@
         </article>
 
         <!-- review five -->
-        <article class="review">
+        <article class="review slide-in from-left">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -208,7 +208,7 @@
         </article>
 
         <!-- review six -->
-        <article class="review">
+        <article class="review slide-in from-right">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -242,7 +242,7 @@
         </article>
 
         <!-- review seven -->
-        <article class="review">
+        <article class="review slide-in from-left">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -276,7 +276,7 @@
         </article>
 
         <!-- review eight -->
-        <article class="review">
+        <article class="review slide-in from-right">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -312,7 +312,7 @@
         <!-- insomnia reviews -->
 
         <!-- review one -->
-        <article class="review">
+        <article class="review slide-in from-left">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -362,7 +362,7 @@
         </article>
 
         <!-- review two -->
-        <article class="review">
+        <article class="review slide-in from-right">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -407,7 +407,7 @@
         </article>
 
         <!-- review three -->
-        <article class="review">
+        <article class="review slide-in from-left">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -451,7 +451,7 @@
         </article>
 
         <!-- review four -->
-        <article class="review">
+        <article class="review slide-in from-right">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -489,7 +489,7 @@
         </article>
 
         <!-- review five -->
-        <article class="review">
+        <article class="review slide-in from-left">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -526,7 +526,7 @@
         </article>
 
         <!-- review six -->
-        <article class="review">
+        <article class="review slide-in from-right">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -563,7 +563,7 @@
         </article>
 
         <!-- review seven -->
-        <article class="review">
+        <article class="review slide-in from-left">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -604,7 +604,7 @@
         </article>
 
         <!-- review eight -->
-        <article class="review">
+        <article class="review slide-in from-right">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -649,7 +649,7 @@
         <!-- snoring reviews -->
 
         <!-- review one -->
-        <article class="review">
+        <article class="review slide-in from-left">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -686,7 +686,7 @@
         </article>
 
         <!-- review two -->
-        <article class="review">
+        <article class="review slide-in from-right">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -721,7 +721,7 @@
         </article>
 
         <!-- review three -->
-        <article class="review">
+        <article class="review slide-in from-left">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -755,7 +755,7 @@
         </article>
 
         <!-- review four -->
-        <article class="review">
+        <article class="review slide-in from-right">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -789,7 +789,7 @@
         </article>
 
         <!-- review five -->
-        <article class="review">
+        <article class="review slide-in from-left">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -823,7 +823,7 @@
         </article>
 
         <!-- review six -->
-        <article class="review">
+        <article class="review slide-in from-right">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -857,7 +857,7 @@
         </article>
 
         <!-- review seven -->
-        <article class="review">
+        <article class="review slide-in from-left">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -891,7 +891,7 @@
         </article>
 
         <!-- review eight -->
-        <article class="review">
+        <article class="review slide-in from-right">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -927,7 +927,7 @@
         <!-- fibromyalgia reviews -->
 
           <!-- review one -->
-          <article class="review">
+          <article class="review slide-in from-left">
             <h2 class="review-title">
               <img src="./_a_img/star.webp" alt="" />
               <img src="./_a_img/star.webp" alt="" />
@@ -965,7 +965,7 @@
           </article>
 
           <!-- review two -->
-          <article class="review">
+          <article class="review slide-in from-right">
             <h2 class="review-title">
               <img src="./_a_img/star.webp" alt="" />
               <img src="./_a_img/star.webp" alt="" />
@@ -1000,7 +1000,7 @@
           </article>
 
           <!-- review three -->
-          <article class="review">
+          <article class="review slide-in from-left">
             <h2 class="review-title">
               <img src="./_a_img/star.webp" alt="" />
               <img src="./_a_img/star.webp" alt="" />
@@ -1034,7 +1034,7 @@
           </article>
 
           <!-- review four -->
-          <article class="review">
+          <article class="review slide-in from-right">
             <h2 class="review-title">
               <img src="./_a_img/star.webp" alt="" />
               <img src="./_a_img/star.webp" alt="" />
@@ -1068,7 +1068,7 @@
           </article>
 
           <!-- review five -->
-          <article class="review">
+          <article class="review slide-in from-left">
             <h2 class="review-title">
               <img src="./_a_img/star.webp" alt="" />
               <img src="./_a_img/star.webp" alt="" />
@@ -1102,7 +1102,7 @@
           </article>
 
           <!-- review six -->
-          <article class="review">
+          <article class="review slide-in from-right">
             <h2 class="review-title">
               <img src="./_a_img/star.webp" alt="" />
               <img src="./_a_img/star.webp" alt="" />
@@ -1136,7 +1136,7 @@
           </article>
 
           <!-- review seven -->
-          <article class="review">
+          <article class="review slide-in from-left">
             <h2 class="review-title">
               <img src="./_a_img/star.webp" alt="" />
               <img src="./_a_img/star.webp" alt="" />
@@ -1170,7 +1170,7 @@
           </article>
 
           <!-- review eight -->
-          <article class="review">
+          <article class="review slide-in from-right">
             <h2 class="review-title">
               <img src="./_a_img/star.webp" alt="" />
               <img src="./_a_img/star.webp" alt="" />
@@ -1206,7 +1206,7 @@
         <!-- menopause reviews -->
 
         <!-- review one -->
-        <article class="review">
+        <article class="review slide-in from-left">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -1244,7 +1244,7 @@
         </article>
 
         <!-- review two -->
-        <article class="review">
+        <article class="review slide-in from-right">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -1279,7 +1279,7 @@
         </article>
 
         <!-- review three -->
-        <article class="review">
+        <article class="review slide-in from-left">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -1314,7 +1314,7 @@
         </article>
 
         <!-- review four -->
-        <article class="review">
+        <article class="review slide-in from-right">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -1348,7 +1348,7 @@
         </article>
 
         <!-- review five -->
-        <article class="review">
+        <article class="review slide-in from-left">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -1382,7 +1382,7 @@
         </article>
 
         <!-- review six -->
-        <article class="review">
+        <article class="review slide-in from-right">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -1416,7 +1416,7 @@
         </article>
 
         <!-- review seven -->
-        <article class="review">
+        <article class="review slide-in from-left">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -1450,7 +1450,7 @@
         </article>
 
         <!-- review eight -->
-        <article class="review">
+        <article class="review slide-in from-right">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -1486,7 +1486,7 @@
         <!-- children reviews -->
 
         <!-- review one -->
-        <article class="review">
+        <article class="review slide-in from-left">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -1523,7 +1523,7 @@
         </article>
 
         <!-- review two -->
-        <article class="review">
+        <article class="review slide-in from-right">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -1558,7 +1558,7 @@
         </article>
 
         <!-- review three -->
-        <article class="review">
+        <article class="review slide-in from-left">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -1592,7 +1592,7 @@
         </article>
 
         <!-- review four -->
-        <article class="review">
+        <article class="review slide-in from-right">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -1626,7 +1626,7 @@
         </article>
 
         <!-- review five -->
-        <article class="review">
+        <article class="review slide-in from-left">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -1660,7 +1660,7 @@
         </article>
 
         <!-- review six -->
-        <article class="review">
+        <article class="review slide-in from-right">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -1694,7 +1694,7 @@
         </article>
 
         <!-- review seven -->
-        <article class="review">
+        <article class="review slide-in from-left">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />
@@ -1728,7 +1728,7 @@
         </article>
 
         <!-- review eight -->
-        <article class="review">
+        <article class="review slide-in from-right">
           <h2 class="review-title">
             <img src="./_a_img/star.webp" alt="" />
             <img src="./_a_img/star.webp" alt="" />

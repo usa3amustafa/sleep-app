@@ -12,6 +12,7 @@
 
 body {
   font-family: var(--font-family);
+  overflow-x: hidden;
 }
 
 .container {
@@ -61,18 +62,22 @@ nav {
   background-color: #592d83;
   border-bottom: 1px solid #fefefe;
 
-  display: none;
+  opacity: 0;
+  transform: translateY(-5rem);
+
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.nav-sticky {
+  z-index: 10;
+
+  opacity: 1;
+  transform: translateY(0);
 
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
-
-  z-index: 10;
-}
-
-.nav-sticky {
-  display: block;
 }
 
 .nav {
@@ -736,4 +741,29 @@ footer {
 
 .footer-bottom-link {
   color: #fefefe;
+}
+
+/* reviews animation classes */
+
+.from-left {
+  transform: translateX(-50%);
+}
+
+.from-right {
+  transform: translateX(50%);
+}
+
+.from-left,
+.from-right {
+  opacity: 0;
+  transition: transform 0.7s ease-out, opacity 0.5s ease-in-out;
+}
+
+.from-left.appear,
+.from-right.appear {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.appear {
 }
