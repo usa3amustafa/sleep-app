@@ -1,5 +1,5 @@
 :root {
-  --font-family: 'Open Sans', sans-serif;
+  --font-family: sans-serif;
 }
 
 * {
@@ -56,23 +56,25 @@ section {
   text-align: center;
 }
 
+.times {
+  font-family: 'Times New Roman', Times, serif;
+}
+
 /* nav  */
 
 nav {
   background-color: #592d83;
   border-bottom: 1px solid #fefefe;
+  border-top: 1px solid #fefefe;
 
-  opacity: 0;
+  /* opacity: 0;
   transform: translateY(-5rem);
 
-  transition: transform 0.3s ease, opacity 0.3s ease;
+  transition: transform 0.3s ease, opacity 0.3s ease; */
 }
 
 .nav-sticky {
   z-index: 10;
-
-  opacity: 1;
-  transform: translateY(0);
 
   position: fixed;
   top: 0;
@@ -205,7 +207,7 @@ header {
 }
 
 .header-section {
-  padding: 2rem 0 4rem 0;
+  padding: 0 0 4rem 0;
   text-align: center;
 }
 
@@ -215,13 +217,17 @@ header {
 }
 
 .header-section-subtitle {
-  font-size: 2rem;
+  font-size: 2.5rem;
   font-style: italic;
-  margin-bottom: 1rem;
+  font-weight: 500;
 }
 
 .header-section-logo {
-  width: 15%;
+  width: 10%;
+}
+
+.header-section-img {
+  width: 65%;
 }
 
 /* text section  */
