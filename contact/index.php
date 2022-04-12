@@ -9,20 +9,20 @@
 
   
 
-    <link rel="stylesheet" href="./_a_css/style.css" />
-    <link rel="stylesheet" href="./_a_css/media-md.css" />
-    <link rel="stylesheet" href="./_a_css/media-sm.css" />
-    <link rel="stylesheet" href="./_a_css/media-xsm.css" />
+    <link rel="stylesheet" href="../_a_css/style.css" />
+    <link rel="stylesheet" href="../_a_css/media-md.css" />
+    <link rel="stylesheet" href="../_a_css/media-sm.css" />
+    <link rel="stylesheet" href="../_a_css/media-xsm.css" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Square+Peg&display=swap" rel="stylesheet">
 
-    <script src="./app.js" defer></script>
+    <script src="../js/app.js" defer></script>
   </head>
   <body>
     <!-- header -->
-    <?php include "./_inc_/header.php" ?>
+    <?php include "../_inc_/header.php" ?>
 
     <!-- contact section -->
 
@@ -38,12 +38,12 @@
           </p>
 
           <p class="contact-info-link">
-            <img src="./_a_img/email.webp" alt="">
+            <img src="../_a_img/email.webp" alt="">
             <a href="mailto:Enquiries@SleepBetterPillowMist.com" class="email-link">Enquiries@SleepBetterPillowMist.com</a>
           </p>
 
           <p class="contact-info-link">
-            <img src="./_a_img/call.webp" alt="">
+            <img src="../_a_img/call.webp" alt="">
             <a href="tel:Enquiries@SleepBetterPillowMist.com" class="phone-link">01403 597 124</a>
           </p>
         </div>
@@ -73,10 +73,10 @@
 
 
     <!-- showcase -->
-    <?php include "./_inc_/showcase.php" ?>
+    <?php include "../_inc_/showcase.php" ?>
 
     <!-- footer -->
-    <?php include "./_inc_/footer.php" ?>
+    <?php include "../_inc_/footer.php" ?>
 
 
   </body>

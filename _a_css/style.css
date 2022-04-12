@@ -52,6 +52,16 @@ section {
   color: #553377;
 }
 
+.email-link,
+.phone-link {
+  color: #fefefe;
+  font-size: 1.25rem;
+}
+
+.comments-email-link {
+  color: #553377;
+}
+
 .all-reviews-text-section {
   text-align: center;
 }
@@ -452,12 +462,6 @@ header {
   gap: 1rem;
 
   margin-bottom: 1rem;
-}
-
-.email-link,
-.phone-link {
-  color: #fefefe;
-  font-size: 1.25rem;
 }
 
 .contact-form {

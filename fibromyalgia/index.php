@@ -9,20 +9,20 @@
 
   
 
-    <link rel="stylesheet" href="./_a_css/style.css" />
-    <link rel="stylesheet" href="./_a_css/media-md.css" />
-    <link rel="stylesheet" href="./_a_css/media-sm.css" />
-    <link rel="stylesheet" href="./_a_css/media-xsm.css" />
+    <link rel="stylesheet" href="../_a_css/style.css" />
+    <link rel="stylesheet" href="../_a_css/media-md.css" />
+    <link rel="stylesheet" href="../_a_css/media-sm.css" />
+    <link rel="stylesheet" href="../_a_css/media-xsm.css" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Square+Peg&display=swap" rel="stylesheet">
 
-    <script src="./app.js" defer></script>
+    <script src="../js/app.js" defer></script>
   </head>
   <body>
     <!-- header -->
-    <?php include "./_inc_/header.php" ?>
+    <?php include "../_inc_/header.php" ?>
 
     <!-- fibromyalgia text section -->
     <section class="fibromyalgia-text">
@@ -50,11 +50,11 @@
           <!-- review one -->
           <article class="review slide-in from-left">
             <h2 class="review-title">
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
               It works great!
             </h2>
             <div class="user-review">
@@ -88,11 +88,11 @@
           <!-- review two -->
           <article class="review slide-in from-right">
             <h2 class="review-title">
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
               Fully recommended!
             </h2>
             <p class="review-text">
@@ -123,11 +123,11 @@
           <!-- review three -->
           <article class="review slide-in from-left">
             <h2 class="review-title">
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
               Totally recommended!
             </h2>
             <p class="review-text">
@@ -157,11 +157,11 @@
           <!-- review four -->
           <article class="review slide-in from-right">
             <h2 class="review-title">
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
               Get this sleep mist!!
             </h2>
             <p class="review-text">
@@ -191,11 +191,11 @@
           <!-- review five -->
           <article class="review slide-in from-left">
             <h2 class="review-title">
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
               It’s brilliant!
             </h2>
             <p class="review-text">
@@ -225,11 +225,11 @@
           <!-- review six -->
           <article class="review slide-in from-right">
             <h2 class="review-title">
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
               Brilliant!
             </h2>
             <p class="review-text">
@@ -259,11 +259,11 @@
           <!-- review seven -->
           <article class="review slide-in from-left">
             <h2 class="review-title">
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
               A great way to solve sleeping problems!
             </h2>
             <p class="review-text">
@@ -293,11 +293,11 @@
           <!-- review eight -->
           <article class="review slide-in from-right">
             <h2 class="review-title">
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
-              <img src="./_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
+            <img src="../_a_img/star.webp" alt="" />
               Brilliant Product!
             </h2>
             <p class="review-text">
@@ -327,10 +327,10 @@
     </section>
 
       <!-- showcase -->
-    <?php include "./_inc_/showcase.php" ?>
+    <?php include "../_inc_/showcase.php" ?>
 
     <!-- footer -->
-    <?php include "./_inc_/footer.php" ?>
+    <?php include "../_inc_/footer.php" ?>
 
 
   </body>

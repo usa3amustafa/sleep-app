@@ -14,7 +14,7 @@
             <button class="newsletter-input-btn">subscribe</button>
           </form>
           <div class="cards">
-            <img src="./_a_img/cards.webp" alt="" class="cards-img" />
+            <img src="../_a_img/cards.webp" alt="" class="cards-img" />
           </div>
         </div>
 
